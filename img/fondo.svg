@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#d9873f" stop-opacity="0.75"/><stop offset="55%" stop-color="#f6bb4a" stop-opacity="0.35"/><stop offset="100%" stop-color="#4cc9f0" stop-opacity="0.6"/></linearGradient>
+<radialGradient id="gA" cx="20%" cy="12%" r="60%"><stop offset="0%" stop-color="#294066" stop-opacity="0.6"/><stop offset="100%" stop-color="#060b14" stop-opacity="0"/></radialGradient>
+<radialGradient id="gB" cx="88%" cy="82%" r="55%"><stop offset="0%" stop-color="#5a3a17" stop-opacity="0.45"/><stop offset="100%" stop-color="#060b14" stop-opacity="0"/></radialGradient>
+<style>
+.t{animation:flow linear infinite}@keyframes flow{to{stroke-dashoffset:-420}}
+.k{fill:none;stroke:#36558a;stroke-opacity:.55;animation:glow 5s ease-in-out infinite}
+@keyframes glow{50%{stroke:#4cc9f0;stroke-opacity:.9}}
+@media (prefers-reduced-motion:reduce){.t,.k{animation:none}}
+</style>
+</defs>
+<rect width="100%" height="100%" fill="url(#gA)"/><rect width="100%" height="100%" fill="url(#gB)"/>
+<g stroke="url(#ln)" stroke-width="1.3" fill="none" stroke-dasharray="18 12">
+<path class="t" style="animation-duration:14s" d="M-40 90 H320 l40 40 H760 l60 -60 H1600"/>
+<path class="t" style="animation-duration:17s" d="M-40 250 H180 l50 50 H520 l40 -40 H900 l60 60 H1600"/>
+<path class="t" style="animation-duration:20s" d="M1200 -20 V120 l-60 60 V360 l70 70 V900"/>
+<path class="t" style="animation-duration:23s" d="M-40 520 H260 l60 -60 H700 l50 50 V780 H1300 l80 -80 H1600"/>
+<path class="t" style="animation-duration:26s" d="M180 -20 V180 l60 60 V560 l-70 70 V1000"/>
+<path class="t" style="animation-duration:29s" d="M-40 760 H420 l50 50 H1000 l70 -70 H1600"/>
+</g>
+<g><rect x="20" y="20" width="34" height="30" rx="5" class="k" style="animation-delay:0.00s"/><rect x="217" y="351" width="34" height="30" rx="5" class="k" style="animation-delay:0.41s"/><rect x="414" y="682" width="34" height="30" rx="5" class="k" style="animation-delay:0.82s"/><rect x="611" y="153" width="34" height="30" rx="5" class="k" style="animation-delay:1.23s"/><rect x="808" y="484" width="34" height="30" rx="5" class="k" style="animation-delay:1.64s"/><rect x="1005" y="815" width="34" height="30" rx="5" class="k" style="animation-delay:2.05s"/><rect x="1202" y="286" width="34" height="30" rx="5" class="k" style="animation-delay:2.46s"/><rect x="1399" y="617" width="34" height="30" rx="5" class="k" style="animation-delay:2.87s"/><rect x="196" y="88" width="34" height="30" rx="5" class="k" style="animation-delay:3.28s"/><rect x="393" y="419" width="34" height="30" rx="5" class="k" style="animation-delay:3.69s"/><rect x="590" y="750" width="34" height="30" rx="5" class="k" style="animation-delay:4.10s"/><rect x="787" y="221" width="34" height="30" rx="5" class="k" style="animation-delay:4.51s"/><rect x="984" y="552" width="34" height="30" rx="5" class="k" style="animation-delay:4.92s"/><rect x="1181" y="23" width="34" height="30" rx="5" class="k" style="animation-delay:5.33s"/><rect x="1378" y="354" width="34" height="30" rx="5" class="k" style="animation-delay:5.74s"/><rect x="175" y="685" width="34" height="30" rx="5" class="k" style="animation-delay:6.15s"/><rect x="372" y="156" width="34" height="30" rx="5" class="k" style="animation-delay:6.56s"/><rect x="569" y="487" width="34" height="30" rx="5" class="k" style="animation-delay:6.97s"/><rect x="766" y="818" width="34" height="30" rx="5" class="k" style="animation-delay:7.38s"/><rect x="963" y="289" width="34" height="30" rx="5" class="k" style="animation-delay:7.79s"/><rect x="1160" y="620" width="34" height="30" rx="5" class="k" style="animation-delay:8.20s"/><rect x="1357" y="91" width="34" height="30" rx="5" class="k" style="animation-delay:8.61s"/><rect x="154" y="422" width="34" height="30" rx="5" class="k" style="animation-delay:9.02s"/><rect x="351" y="753" width="34" height="30" rx="5" class="k" style="animation-delay:9.43s"/><rect x="548" y="224" width="34" height="30" rx="5" class="k" style="animation-delay:9.84s"/><rect x="745" y="555" width="34" height="30" rx="5" class="k" style="animation-delay:10.25s"/></g></svg>
